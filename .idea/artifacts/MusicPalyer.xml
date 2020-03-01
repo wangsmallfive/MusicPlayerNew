@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MusicPalyer">
+    <output-path>$PROJECT_DIR$/tgaret/artifacts/MusicPalyer</output-path>
+    <root id="archive" name="MusicPalyer.war" />
+  </artifact>
+</component>
