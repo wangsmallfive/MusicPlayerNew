@@ -1,0 +1,47 @@
+
+csquid:CommentedOutCodeLine±"<This block of commented-out lines of code should be removed.(†€éˆ
+csquid:S39733"GUse indentation to denote the code conditionally executed by this "if".(‹Úóõþÿÿÿÿ
+;squid:S16591"$Declare "artist" on a separate line.(ÏÁî
+U
+squid:S106Ç"9Replace this use of System.out or System.err by a logger.(â¿­¯úÿÿÿÿ
+Gsquid:S1172¨"/Remove this unused method parameter "pathName".(Îî×
+gsquid:S3027Á"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Â·ùÿÿÿÿ
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÏË¦šÿÿÿÿÿ
+csquid:S00112["FDefine and throw a dedicated exception instead of using a generic one.(£™úÿÿÿÿÿ
+csquid:S00112p"FDefine and throw a dedicated exception instead of using a generic one.(¿ Éýÿÿÿÿ
+Usquid:S1854™"8Remove this useless assignment to local variable "icon".(Áþâ†ûÿÿÿÿ
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(†€éˆ
+Osquid:S1135°"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ
+Osquid:S1135‹"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+Psquid:S1118)":Add a private constructor to hide the implicit public one.(¥â™=
+Osquid:S1854g"8Remove this useless assignment to local variable "icon".(ù»‹´
+@squid:S1481g")Remove this unused "icon" local variable.(ù»‹´
+_squid:S00112Ó"FDefine and throw a dedicated exception instead of using a generic one.(ï´ÿÆ
+csquid:CommentedOutCodeLine£"<This block of commented-out lines of code should be removed.(†€éˆ
+]squid:S39735"GUse indentation to denote the code conditionally executed by this "if".(‰š 1
+—%squid:RedundantThrowsDeclarationCheckµ"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(½ãïŒ
+dsquid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(àâ½Œøÿÿÿÿ
+^squid:S1075©"ARefactor your code to get this URI from a customizable parameter.(¶××¯úÿÿÿÿ
+Fsquid:S1481™")Remove this unused "icon" local variable.(Áþâ†ûÿÿÿÿ
+csquid:S39737"GUse indentation to denote the code conditionally executed by this "if".(Œ™Î ûÿÿÿÿ
+dsquid:S00112‘"FDefine and throw a dedicated exception instead of using a generic one.(±“ãïûÿÿÿÿ
+ksquid:S00100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û´áæýÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheck‘"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(±“ãïûÿÿÿÿ
+ksquid:S2095ž"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(äÄ·ûÿÿÿÿ
+_squid:S00112µ"FDefine and throw a dedicated exception instead of using a generic one.(½ãïŒ
+ksquid:S00100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¤›Âÿÿÿÿÿ
+jsquid:S2095k"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(äÄ·ûÿÿÿÿ
+squid:S26815"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(‰š 1
+£squid:S26817"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(Œ™Î ûÿÿÿÿ
+hsquid:CommentedOutCodeLine‡"<This block of commented-out lines of code should be removed.(ÚÂ©˜øÿÿÿÿ
+Xsquid:UselessImportCheck
+"/Remove this unused import 'java.io.FileReader'.(Â¡¢äþÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck["eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(£™úÿÿÿÿÿ
+]squid:UselessImportCheck"9Remove this unused import 'java.awt.image.RenderedImage'.(¤Ò£Ò
+Nsquid:S1135o"2Complete the task associated to this TODO comment.(ÕÌ®þÿÿÿÿ
+gsquid:CommentedOutCodeLineV"<This block of commented-out lines of code should be removed.(Œõ«Ëøÿÿÿÿ
+:squid:S16591"#Declare "album" on a separate line.(ÏÁî
+csquid:S00112R"FDefine and throw a dedicated exception instead of using a generic one.(ÅŠ†°üÿÿÿÿ
+dsquid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(³ÐÔ‰ûÿÿÿÿ

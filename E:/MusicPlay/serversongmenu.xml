@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu-list> 
+  <song-menu songMenuName="我服务器的音乐" createDate="2020年02月28日"/>  
+  <song-menu songMenuName="服务器音乐" createDate="2020年02月28日"> 
+    <song> 
+      <path>http://139.196.95.157/musicplayer/李敏镐,羽·泉 - 奔跑.mp3</path>  
+      <length>7.21M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>空</album>  
+        <artist>空</artist>  
+        <songName>李敏镐,羽·泉 - 奔跑.mp3</songName>  
+        <length>空</length> 
+      </tag> 
+    </song>  
+    <song>
+      <path>http://139.196.95.157/musicplayer/胡海泉 - 爱人.mp3</path>
+      <length>10.44M</length>
+      <isLike>NO</isLike>
+      <tag>
+        <album>空</album>
+        <artist>空</artist>
+        <songName>胡海泉 - 爱人.mp3</songName>
+        <length>空</length>
+      </tag>
+    </song>
+  </song-menu> 
+</menu-list>

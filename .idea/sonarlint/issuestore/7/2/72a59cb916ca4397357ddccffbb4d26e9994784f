@@ -1,0 +1,15 @@
+
+Psquid:S1905H"-Remove this unnecessary cast to "AnchorPane".(®ñ—ºùÿÿÿÿ8ç²©÷ø-
+Gsquid:S1444")Make this "public static gui" field final(œëŞÃ8ç²©÷ø-
+Fsquid:S1604f"(Make this anonymous inner class a lambda(»ãîø8ùËÁ÷ø-
+Osquid:S1905R",Remove this unnecessary cast to "StackPane".(·Ö¼ùÿÿÿÿ8ç²©÷ø-
+Tsquid:S26961"6Make the enclosing method "static" or remove this set.(…¨ì˜8ç²©÷ø-
+Ksquid:S1604m"(Make this anonymous inner class a lambda(³ò‹èıÿÿÿÿ8ùËÁ÷ø-
+Ksquid:S1905C"-Remove this unnecessary cast to "BorderPane".(«‡ò†8ç²©÷ø-
+Fsquid:S1148b"#Use a logger to log this exception.(Ú¸ÿÿÿÿÿ8ç²©÷ø-
+isquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(ÌÌäâ8ç²©÷ø-
+„"squid:ClassVariableVisibilityCheck"OMake gui a static final constant or non-public and provide accessors if needed.(œëŞÃ8ç²©÷ø-
+Osquid:S1444"1Make this "public static staticStage" field final(Å÷ù¶8ç²©÷ø-
+Œ"squid:ClassVariableVisibilityCheck"WMake staticStage a static final constant or non-public and provide accessors if needed.(Å÷ù¶8ç²©÷ø-
+Ksquid:S1905M"-Remove this unnecessary cast to "AnchorPane".(·€×ï8ç²©÷ø-
+Tsquid:S2696;"6Make the enclosing method "static" or remove this set.(Ö›«8ç²©÷ø-

@@ -1,0 +1,41 @@
+
+{squid:S001162"cRename this field "Button_addLocalDirectory" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª­È¾
+nsquid:S1450è"QRemove the "pp" field and declare it as a local variable in the relevant methods.(ì×ù—ýÿÿÿÿ
+|squid:S001168"_Rename this field "Label_musicListTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ·”ªÿÿÿÿÿ
+}squid:S00116A"eRename this field "AnchorPane_CurrentSongInfo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Âôý›
+msquid:S00100v"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„¹¹“8ä×íüø-
+wsquid:S00116,"_Rename this field "Button_addLocalMusic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï«ó˜
+rsquid:S00116"ZRename this field "AnchorPane_left" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆë†²
+nsquid:S00100‚"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­„ÐÍ8ä×íüø-
+msquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½æò¿8Ù¸ùˆ‡.
+rsquid:S00100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­º×‡øÿÿÿÿ8ä×íüø-
+nsquid:S00100†"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡ãÚ¥8ä×íüø-
+rsquid:S00100j"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÝÛ¦èùÿÿÿÿ8ä×íüø-
+nsquid:S00100Š"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÖºÇ‡8ä×íüø-
+ssquid:S00100Ž"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”ÎÁÃøÿÿÿÿ8ä×íüø-
+msquid:S00100’"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Öñä[8ä×íüø-
+msquid:S00100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢‡–™8ä×íüø-
+ssquid:S00100–"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»“ÏÀøÿÿÿÿ8ä×íüø-
+msquid:S00100b"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óœõ½8ä×íüø-
+csquid:S1192Î"KDefine a constant instead of duplicating this literal "lightLabel" 3 times.(Þ­²
+…squid:S00116/"aRename this field "Button_upDownlodeMusic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òýÌúÿÿÿÿÿ8»êöˆ‡.
+usquid:S00116#"]Rename this field "VBox_leftMainField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ÿ‡Š
+tsquid:S00116P"WRename this field "Label_singer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÈÒÓûÿÿÿÿ
+rsquid:S00100f"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÖÖÀþÿÿÿÿ8ä×íüø-
+{squid:S00116;"^Rename this field "Button_addMusicList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ç“Áýÿÿÿÿ
+msquid:S00100r"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¯Ó¼8ä×íüø-
+wsquid:S001165"_Rename this field "HBox_leftManageField" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×ê†
+rsquid:S00100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ÓîÄÿÿÿÿÿ8ä×íüø-
+rsquid:S00100z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âŽÃÓùÿÿÿÿ8ä×íüø-
+zsquid:S00116>"]Rename this field "ListView_musicList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïžŽ¥úÿÿÿÿ
+isquid:S1192Ñ"LDefine a constant instead of duplicating this literal "lightButton" 4 times.(Ò‡Ìàùÿÿÿÿ
+~squid:S00116D"aRename this field "Hbox_leftImageAndTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†—‚àüÿÿÿÿ
+msquid:S00100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýß™Õ8ä×íüø-
+zsquid:S00116J"bRename this field "Vbox_leftTitleAndSinger" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äö¯¯
+hsquid:CommentedOutCodeLineÃ"<This block of commented-out lines of code should be removed.(È³Ü‹ÿÿÿÿÿ
+msquid:S00100n"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ÐÁÜ8ä×íüø-
+tsquid:S00116)"\Rename this field "Button_localMusic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³è×Å
+xsquid:S00116&"[Rename this field "VBox_leftButtons" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÆüÂýÿÿÿÿ
+wsquid:S00116G"_Rename this field "ImageView_albumCover" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñãé
+rsquid:S00116"URename this field "VBox_items" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­ù‡Ëÿÿÿÿÿ
+xsquid:S00116M"[Rename this field "Label_musicTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(è±æëûÿÿÿÿ

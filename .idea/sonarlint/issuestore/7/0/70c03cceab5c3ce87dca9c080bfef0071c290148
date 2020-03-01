@@ -1,0 +1,5 @@
+
+gsquid:S1206Z"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã
+isquid:S00117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÚË
+6squid:S2097Z"Add a type test to this method.(ÜÑã
+_squid:S2259\"CA "NullPointerException" could be thrown; "other" is nullable here.(ôÂŸ÷ÿÿÿÿÿ

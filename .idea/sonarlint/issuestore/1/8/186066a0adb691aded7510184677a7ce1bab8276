@@ -1,0 +1,22 @@
+
+dsquid:S3973¸"GUse indentation to denote the code conditionally executed by this "if".(¬Ï×úÿÿÿÿ
+`squid:S2259D"IA "NullPointerException" could be thrown; "selectNodes" is nullable here.(’á‰¥
+Fsquid:EmptyStatementUsageCheck«"Remove this empty statement.(ÅÉßr
+dsquid:S3973°"GUse indentation to denote the code conditionally executed by this "if".(¬Ï×úÿÿÿÿ
+Vsquid:S1854&":Remove this useless assignment to local variable "remove".(¼¥ƒÌüÿÿÿÿ
+qsquid:S2293¤"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü§Ñ
+ssquid:S1192""WDefine a constant instead of duplicating this literal "//song[contains(path,'" 3 times.(–¹Å…şÿÿÿÿ
+tsquid:S1192 "]Define a constant instead of duplicating this literal "//song-menu[@songMenuName='" 10 times.(œÎšŠ
+Gsquid:S1481&"+Remove this unused "remove" local variable.(¼¥ƒÌüÿÿÿÿ
+nsquid:S00117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ÊÀÄıÿÿÿÿ
+psquid:S22930"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü§Ñ
+^squid:S1126—"AReplace this if-then-else statement by a single return statement.(¡³Ê‘úÿÿÿÿ
+dsquid:S3973¨"GUse indentation to denote the code conditionally executed by this "if".(¬Ï×úÿÿÿÿ
+T
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ãí“‹ıÿÿÿÿ
+Gsquid:EmptyStatementUsageCheck³"Remove this empty statement.(Ê«©Š
+Lsquid:EmptyStatementUsageCheck¢"Remove this empty statement.(…Æ¨Øùÿÿÿÿ
+psquid:S2293E"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü§Ñ
+osquid:S1192"SDefine a constant instead of duplicating this literal "æˆ‘å–œæ¬¢çš„éŸ³ä¹" 3 times.(¹÷ºãşÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'example.entity.Tag'.(»‚Ä¿
+csquid:S3973>"GUse indentation to denote the code conditionally executed by this "if".(×¹Á«ûÿÿÿÿ

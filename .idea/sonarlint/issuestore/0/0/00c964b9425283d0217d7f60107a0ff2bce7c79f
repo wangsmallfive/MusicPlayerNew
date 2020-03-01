@@ -1,0 +1,44 @@
+
+ksquid:S00100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÉšşÿÿÿÿÿ
+ksquid:S00100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹™±ûÿÿÿÿ
+osquid:S00116B"RRename this field "LrcList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Øæ†ÿÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck4"PMake type a static final constant or non-public and provide accessors if needed.(ûöå©
+msquid:S00116"PRename this field "TagAr" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³ëÂ§ÿÿÿÿÿ
+=squid:S1905m"'Remove this unnecessary cast to "long".(Àµ˜t
+usquid:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ºÔ…üÿÿÿÿ
+®%squid:RedundantThrowsDeclarationCheckG"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(á¡Ê§ùÿÿÿÿ
+ %squid:RedundantThrowsDeclarationCheck^"jRemove the declaration of thrown exception 'java.lang.NumberFormatException' which is a runtime exception.(¹™±ûÿÿÿÿ
+=squid:S1170"!Make this final field static too.(³ëÂ§ÿÿÿÿÿ
+†"squid:ClassVariableVisibilityCheck;"SMake lrcLine a static final constant or non-public and provide accessors if needed.(ÆË•ºúÿÿÿÿ
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§üÙöùÿÿÿÿ
+=squid:S1170"!Make this final field static too.(ù­¼øÿÿÿÿ
+hsquid:CommentedOutCodeLine¢"<This block of commented-out lines of code should be removed.(§»‰üÿÿÿÿ
+bsquid:S3027k"FPut single-quotes around '.' to use the faster "indexOf(char)" method.(¢Äõüÿÿÿÿ
+bsquid:CommentedOutCodeLine~"<This block of commented-out lines of code should be removed.(¢ÅÈĞ
+bsquid:S3027g"FPut single-quotes around ':' to use the faster "indexOf(char)" method.(«€à ıÿÿÿÿ
+gsquid:S00100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü…’œ
+gsquid:CommentedOutCodeLine_"<This block of commented-out lines of code should be removed.(÷¸Üıÿÿÿÿ
+jsquid:S00117°"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²êõ
+\squid:UselessImportCheck"5Remove this unused import 'java.nio.charset.Charset'.(ü¶ØŸıÿÿÿÿ
+¨%squid:RedundantThrowsDeclarationCheckT"xRemove the declaration of thrown exception 'java.io.FileNotFoundException' which is a subclass of 'java.io.IOException'.(£É’<
+nsquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÉšşÿÿÿÿÿ
+€"squid:ClassVariableVisibilityCheck6"RMake timeMs a static final constant or non-public and provide accessors if needed.(ñÆã
+csquid:CommentedOutCodeLine“"<This block of commented-out lines of code should be removed.(¢ÅÈĞ
+hsquid:S00116"PRename this field "TagBy" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÕ®
+osquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ˆÜ»ùÿÿÿÿ
+~"squid:ClassVariableVisibilityCheck5"PMake time a static final constant or non-public and provide accessors if needed.(™öŒ
+8squid:S1170"!Make this final field static too.(´‡¹—
+lsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿ‹¡ ûÿÿÿÿ
+bsquid:CommentedOutCodeLinew"<This block of commented-out lines of code should be removed.(¢ÅÈĞ
+usquid:S2293L"YReplace the type specification in this constructor call with the diamond operator ("<>").(‹ºÔ…üÿÿÿÿ
+gsquid:CommentedOutCodeLinea"<This block of commented-out lines of code should be removed.(™Ÿï»úÿÿÿÿ
+csquid:CommentedOutCodeLine…"<This block of commented-out lines of code should be removed.(¢ÅÈĞ
+csquid:CommentedOutCodeLineŒ"<This block of commented-out lines of code should be removed.(¢ÅÈĞ
+msquid:S00116"PRename this field "TagAl" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âß¯ışÿÿÿÿ
+=squid:S1170"!Make this final field static too.(âß¯ışÿÿÿÿ
+hsquid:S00116"PRename this field "TagTi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‡¹—
+nsquid:S00116"QRename this field "TagOff" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù­¼øÿÿÿÿ
+8squid:S1170"!Make this final field static too.(ÂÕ®
+asquid:S3027e"JPut single-quotes around ':' to use the faster "lastIndexOf(char)" method.(£Ó‘×
+fsquid:S3027h"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(¦¢ÉÇøÿÿÿÿ
+gsquid:S2674®"JCheck the return value of the "read" call to see how many bytes were read.(¾¿¹ÿÿÿÿÿ

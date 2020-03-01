@@ -1,0 +1,189 @@
+
+#AnchorPane_left {
+    -fx-background-color: #1b1d20;
+    -fx-border-width: 0 1 1 0;
+}
+
+#AnchorPane_CurrentSongInfo {
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+    -fx-border-width: 1 1 0 1;
+}
+
+#HBox_leftManageField {
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+}
+
+#Button_localMusic {
+    -fx-border-width: 0 1 1 1;
+}
+
+#Button_upDownlodeMusic {
+    -fx-border-width: 0 1 1 1;
+}
+
+#ImageView_albumCover:hover {
+    -fx-effect: dropshadow(three-pass-box, white, 10, 0.0, 0, 0);
+/ / -fx-effect: innershadow(two-pass-box, white, 10, 0.0, 0, 0);
+}
+
+#Label_musicTitle, #Label_singer, #Label_albumName, #Label_source {
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 5, 0.0, 0, 0);
+}
+
+.AddList {
+    -fx-pref-width: 40;
+    -fx-pref-height: 40;
+    -fx-background-color: #1b1d20;
+    -fx-background-image: url("AddListDark.png");
+}
+
+.AddList:hover {
+    -fx-background-image: url("AddList.png");
+}
+
+.ListField {
+    -fx-background-color: #1b1d20;
+    -fx-text-fill: white;
+    -fx-text-size: 50;
+    -fx-border-color: #bfbfbf;
+}
+
+.listButton {
+    -fx-text-fill: #bfbfbf;
+    -fx-font-size: 20;
+    -fx-pref-width: 290;
+    -fx-pref-height: 50;
+    -fx-padding: 5 0 5 15;
+}
+
+.listButton:pressed, .listButton:focused {
+    -fx-text-fill: white;
+    -fx-background-color: #525252;
+}
+
+.listButton:hover {
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 5, 0.0, 0, 0);
+}
+
+.listButtonPlay {
+    -fx-text-fill: #bfbfbf;
+    -fx-font-size: 20;
+    -fx-pref-width: 290;
+    -fx-pref-height: 50;
+    -fx-padding: 5 0 5 15;
+    -fx-background-image: url(hornBG.png);
+}
+
+.listButtonPlay:pressed, .listButtonPlay:focused {
+    -fx-text-fill: white;
+    -fx-background-color: #525252;
+}
+
+.listButtonPlay:hover {
+    -fx-text-fill: white;
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 5, 0.0, 0, 0);
+}
+
+.listButtonPlayAndSelected {
+    -fx-background-image: url(hornBG.png);
+    -fx-font-size: 20;
+    -fx-pref-width: 290;
+    -fx-pref-height: 50;
+    -fx-text-fill: white;
+    -fx-background-color: #525252;
+    -fx-border-width: 0 0 0 7;
+    -fx-border-color: linear-gradient(#800000 0%, red 100%);
+    -fx-padding: 5 0 5 8;
+}
+
+.listButtonSelected {
+    -fx-background-image: null;
+    -fx-font-size: 20;
+    -fx-pref-width: 290;
+    -fx-pref-height: 50;
+    -fx-text-fill: white;
+    -fx-background-color: #525252;
+    -fx-border-width: 0 0 0 7;
+    -fx-border-color: linear-gradient(#800000 0%, red 100%);
+    -fx-padding: 5 0 5 8;
+}
+
+.CloseList {
+    -fx-background-image: url("CloseListDark.png");
+}
+
+.CloseList:hover {
+    -fx-background-image: url("CloseList.png");
+}
+
+
+.list-view {
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+    -fx-padding: 0;
+}
+
+
+.list-cell {
+    -fx-padding: 0;
+}
+
+
+.scroll-bar:vertical {
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+}
+
+.noborder {
+    -fx-background-color: #1b1d20;
+    -fx-padding: 0;
+    -fx-background-insets: 0;
+}
+
+.lightLabel {
+    -fx-background-color: #1b1d20;
+    -fx-text-fill: white;
+}
+
+.lightButton {
+    -fx-text-fill: #bfbfbf;
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+}
+
+.lightButton:hover, .lightButton:pressed, .lightButton:focused {
+    -fx-text-fill: white;
+    -fx-background-color: #42444a;
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 10, 0.0, 0, 0);
+}
+
+.lightButton:hover .text {
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 10, 0.0, 0, 0);
+}
+
+
+.localButtonHorn {
+    -fx-text-fill: #bfbfbf;
+    -fx-background-color: #1b1d20;
+    -fx-border-color: #bfbfbf;
+    -fx-background-image: url("localHorn.png");
+}
+
+.localButtonHorn:hover {
+    -fx-text-fill: white;
+    -fx-background-color: #42444a;
+    -fx-effect: dropshadow(three-pass-box, -fx-shadow-highlight-color, 5, 0.0, 0, 0);
+}
+
+.localButtonHorn:pressed {
+    -fx-text-fill: white;
+    -fx-background-color: #42444a;
+}
+
+.localButtonHorn:focused {
+    -fx-text-fill: white;
+    -fx-background-color: #42444a;
+}

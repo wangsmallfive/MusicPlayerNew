@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<menu-list> 
+  <song-menu songMenuName="我喜欢的音乐" createDate="2020年02月28日">
+    <song>
+      <path>/Users/wangzhenze/Desktop/网易云音乐/胡海泉,派克特（PACT） - 忘.mp3</path>
+      <length>10.47M</length>
+      <isLike>YES</isLike>
+      <tag>
+        <album>忘</album>
+        <artist>胡海泉/派克特（PACT）</artist>
+        <songName>忘</songName>
+        <length>04:29</length>
+      </tag>
+    </song>
+  </song-menu>  
+  <song-menu songMenuName="本地音乐" createDate="2020年02月28日"> 
+    <song> 
+      <path>/Users/wangzhenze/Desktop/网易云音乐/胡海泉 - 爱人.mp3</path>  
+      <length>10.44M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>爱人</album>  
+        <artist>胡海泉</artist>  
+        <songName>爱人</songName>  
+        <length>04:29</length> 
+      </tag> 
+    </song>  
+    <song> 
+      <path>/Users/wangzhenze/Desktop/网易云音乐/胡海泉,派克特（PACT） - 忘.mp3</path>  
+      <length>10.47M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>忘</album>  
+        <artist>胡海泉/派克特（PACT）</artist>  
+        <songName>忘</songName>  
+        <length>04:29</length> 
+      </tag> 
+    </song>  
+    <song> 
+      <path>/Users/wangzhenze/Desktop/网易云音乐/羽·泉 - 爱.mp3</path>  
+      <length>10.92M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>拾伍 重唱集</album>  
+        <artist>羽·泉</artist>  
+        <songName>爱</songName>  
+        <length>04:28</length> 
+      </tag> 
+    </song>  
+    <song> 
+      <path>/Users/wangzhenze/Desktop/网易云音乐/羽·泉 - 唉！.mp3</path>  
+      <length>11.55M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>再生</album>  
+        <artist>羽·泉</artist>  
+        <songName>唉！</songName>  
+        <length>05:00</length> 
+      </tag> 
+    </song>  
+    <song> 
+      <path>/Users/wangzhenze/Desktop/网易云音乐/羽·泉 - 爱浪漫的.mp3</path>  
+      <length>9.43M</length>  
+      <isLike>NO</isLike>  
+      <tag> 
+        <album>最美</album>  
+        <artist>羽·泉</artist>  
+        <songName>爱浪漫的</songName>  
+        <length>04:01</length> 
+      </tag> 
+    </song> 
+  </song-menu> 
+</menu-list>

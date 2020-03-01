@@ -1,0 +1,28 @@
+
+isquid:S1192$"MDefine a constant instead of duplicating this literal "songMenuName" 4 times.(ÆëµÍıÿÿÿÿ
+fsquid:S1192$"JDefine a constant instead of duplicating this literal "song-menu" 4 times.(ÆëµÍıÿÿÿÿ
+gsquid:S1192$"KDefine a constant instead of duplicating this literal "createDate" 4 times.(ÆëµÍıÿÿÿÿ
+ssquid:S1192"\Define a constant instead of duplicating this literal "E://MusicPlay//songmenu.xml" 4 times.(È©®‰
+xsquid:S1488C"\Immediately return this expression instead of assigning it to the temporary variable "read".(àôÁ°üÿÿÿÿ
+Qsquid:S11413"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+csquid:S2259X"GA "NullPointerException" could be thrown; "xmlWriter" is nullable here.(ëÑ»øùÿÿÿÿ
+csquid:S00112T"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+Usquid:UselessImportCheck
+"2Remove this unused import 'org.xml.sax.XMLReader'.(½Ñ´.
+?squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148@"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+?squid:S1148F"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+?squid:S1148Z"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(î”—Å
+]squid:S1075"ARefactor your code to get this URI from a customizable parameter.(Ôæ±èüÿÿÿÿ
+Xsquid:S1075"ARefactor your code to get this URI from a customizable parameter.(È©®‰
+X
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(²ĞÁÌ
+Nsquid:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+Xsquid:S10751"ARefactor your code to get this URI from a customizable parameter.(È©®‰
+X
+squid:S8994"BDo something with the "boolean" value returned by "createNewFile".(²ĞÁÌ
+Nsquid:S1135?"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ
+]squid:S1075C"ARefactor your code to get this URI from a customizable parameter.(àôÁ°üÿÿÿÿ
+Xsquid:S1075N"ARefactor your code to get this URI from a customizable parameter.(İêÔù
+Fsquid:S2093M"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ

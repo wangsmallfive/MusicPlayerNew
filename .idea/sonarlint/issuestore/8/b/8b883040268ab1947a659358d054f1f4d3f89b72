@@ -1,0 +1,27 @@
+
+]squid:S00112n"FDefine and throw a dedicated exception instead of using a generic one.(×•İ,
+csquid:S00112s"FDefine and throw a dedicated exception instead of using a generic one.(ÓÇ©øÿÿÿÿ
+osquid:S1192&"SDefine a constant instead of duplicating this literal "æˆ‘å–œæ¬¢çš„éŸ³ä¹" 6 times.(ĞÊ‹Öúÿÿÿÿ
+Ksquid:S1191"5Use classes from the Java API instead of Sun classes.(ùˆX
+nsquid:S00117-"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷òÇùÿÿÿÿ
+nsquid:S3776s"RRefactor this method to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÓÇ©øÿÿÿÿ
+dsquid:S00112½"FDefine and throw a dedicated exception instead of using a generic one.( ğõºøÿÿÿÿ
+›%squid:RedundantThrowsDeclarationCheck""eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(õÄÛüÿÿÿÿ
+Ssquid:UselessImportCheck"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ
+Fsquid:S1066E"/Merge this if statement with the enclosing one.(ˆûù’
+–%squid:RedundantThrowsDeclarationCheckM"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(—×
+Psquid:S4973E"9Use the "equals" method if value comparison was intended.(ˆûù’
+psquid:UselessImportCheck"MRemove this unused import 'com.sun.org.apache.bcel.internal.classfile.Field'.(ùˆX
+–%squid:RedundantThrowsDeclarationCheck@"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(İŸÊß
+^squid:S00112F"FDefine and throw a dedicated exception instead of using a generic one.(ŒÂÓö
+›%squid:RedundantThrowsDeclarationChecks"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ÓÇ©øÿÿÿÿ
+isquid:S001178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔØ—€
+psquid:S2293u"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü§Ñ
+^squid:S00112@"FDefine and throw a dedicated exception instead of using a generic one.(İŸÊß
+nsquid:S00117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇÔ‹øÿÿÿÿ
+bsquid:CommentedOutCodeLinez"<This block of commented-out lines of code should be removed.(û¥–‰
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(ùªœÖøÿÿÿÿ
+dsquid:UselessImportCheck"4Remove this unused import 'example.entity.SongMenu'.(ôÁİÈøÿÿÿÿ8Û­Ì÷ø-
+^squid:S00112M"FDefine and throw a dedicated exception instead of using a generic one.(—×
+O
+squid:S106."9Replace this use of System.out or System.err by a logger.(–××ş

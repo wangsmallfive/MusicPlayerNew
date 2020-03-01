@@ -1,0 +1,126 @@
+
+usquid:S1488Š"]Immediately return this expression instead of assigning it to the temporary variable "index".(„‹—º
+<squid:S3010š"Remove this assignment of "pb".(ËĞ’œüÿÿÿÿ
+^squid:HiddenFieldCheck•"6Rename "s" which hides the field declared at line 743.(â¤Úşÿÿÿÿ
+Isquid:S1905½",Remove this unnecessary cast to "StackPane".(èé¤ ÿÿÿÿÿ
+jsquid:S00117Ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î¡Ÿó
+=squid:S3010¬" Remove this assignment of "lms".(ÆÈ’™şÿÿÿÿ
+Esquid:S1444×"(Make this "public static ps" field final(€ˆÈ¦şÿÿÿÿ
+<squid:S3010‘"Remove this assignment of "ps".(è£ªƒıÿÿÿÿ
+=squid:S3010 " Remove this assignment of "pbb".(³şÆ¡øÿÿÿÿ
+9squid:S2129‰"!Remove this "Integer" constructor(²¤ÙÏ
+Lsquid:S1172ª"/Remove this unused method parameter "progress".(´ò»ğúÿÿÿÿ
+–%squid:RedundantThrowsDeclarationCheck_"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(¦»ÂÏ
+lsquid:S1192¦"ODefine a constant instead of duplicating this literal "listButtonPlay" 3 times.(Ø™©¯ùÿÿÿÿ
+Esquid:S1444Ø"(Make this "public static df" field final(è´Õ¼ûÿÿÿÿ
+6squid:S1659ç"Declare "s" on a separate line.(«€àq
+}squid:S2293À"YReplace the type specification in this constructor call with the diamond operator ("<>").(û×ÏŠÿÿÿÿÿ8ªÑÖûø-
+Zsquid:S1126Ğ"BReplace this if-then-else statement by a single method invocation.(ëóŸ
+6squid:S3010™"Remove this assignment of "f".(Ë¤£Ò
+<squid:S3010®"Remove this assignment of "pl".(„ËÚúÿÿÿÿ
+~"squid:ClassVariableVisibilityCheckÔ"OMake gui a static final constant or non-public and provide accessors if needed.(œëŞÃ
+csquid:CommentedOutCodeLineĞ"<This block of commented-out lines of code should be removed.(„Õë™
+8squid:S1659ê" Declare "lb" on a separate line.(¿Øõœ
+=squid:S1659¥" Declare "rs" on a separate line.(‘¹î«şÿÿÿÿ
+<squid:S3010¡"Remove this assignment of "cp".(Ø¤àÏüÿÿÿÿ
+<squid:S1659é"Declare "f" on a separate line.(ïÑÕ÷øÿÿÿÿ
+;squid:S3010˜"Remove this assignment of "b".(ÂÃ¢êüÿÿÿÿ
+^squid:HiddenFieldCheck3"7Rename "pq" which hides the field declared at line 726.(¿ÂÔşÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck×"NMake ps a static final constant or non-public and provide accessors if needed.(€ˆÈ¦şÿÿÿÿ
+<squid:S2885Ø"Make "df" an instance variable.(è´Õ¼ûÿÿÿÿ
+wsquid:S1192¥"ZDefine a constant instead of duplicating this literal "listButtonPlayAndSelected" 3 times.(„¬·Ğøÿÿÿÿ
+[squid:S1155ğ">Use isEmpty() to check whether the collection is empty or not.(á‡Ÿüşÿÿÿÿ
+9squid:S1659ï"!Declare "pmb" on a separate line.(ÀÖ¼
+Isquid:S1905Ò",Remove this unnecessary cast to "StackPane".(ñÈ¤Çøÿÿÿÿ
+_squid:S1126§"BReplace this if-then-else statement by a single method invocation.(ğªæãşÿÿÿÿ
+p
+squid:S135‰"YReduce the total number of break and continue statements in this loop to use at most one.(·ÎàÇ
+Asquid:S5411È"*Use the primitive boolean expression here.(Ù–´
+csquid:S1192Ÿ"KDefine a constant instead of duplicating this literal "listButton" 4 times.(ÿá­õ
+_squid:HiddenFieldCheckD"6Rename "i" which hides the field declared at line 743.(ã—Ó¥8¼ö÷.
+T
+squid:S106r"9Replace this use of System.out or System.err by a logger.(À×Şúÿÿÿÿ
+=squid:S3010´" Remove this assignment of "pmc".(·¢ç…şÿÿÿÿ
+Esquid:S1172Ê"(Remove this unused method parameter "l".(ğÍ„Òüÿÿÿÿ
+=squid:S3010³" Remove this assignment of "pms".(ï¿àıÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityCheckÙ"OMake tca a static final constant or non-public and provide accessors if needed.(¨Îœ‚ÿÿÿÿÿ
+<squid:S3010"Remove this assignment of "sl".(§Œúÿÿÿÿ
+7squid:S3010Ÿ"Remove this assignment of "tt".(—‹§Å
+6squid:S3010"Remove this assignment of "ct".(Ú—Æ
+|"squid:ClassVariableVisibilityCheckÖ"NMake pq a static final constant or non-public and provide accessors if needed.(¼·éa
+<squid:S3010¨"Remove this assignment of "vb".(ÈÁ™½üÿÿÿÿ
+jsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÚË
+dsquid:HiddenFieldCheck5"6Rename "s" which hides the field declared at line 743.(äÉÆıÿÿÿÿ8¼ö÷.
+;squid:S3010•"Remove this assignment of "s".(Âî¿üÿÿÿÿ
+:squid:S1659â""Declare "addd" on a separate line.(«òß
+Asquid:S1444Ô")Make this "public static gui" field final(œëŞÃ
+Vsquid:S1155Ğ">Use isEmpty() to check whether the collection is empty or not.(ëóŸ
+7squid:S3010œ"Remove this assignment of "nb".(Ÿ±ç–
+‚"squid:ClassVariableVisibilityCheckØ"NMake df a static final constant or non-public and provide accessors if needed.(è´Õ¼ûÿÿÿÿ
+^squid:HiddenFieldCheckC"7Rename "pq" which hides the field declared at line 726.(¿ÂÔşÿÿÿÿ
+1squid:S2178Š"Correct this "&" to "&&".(ıë±ğ
+Zsquid:HiddenFieldCheckÀ"7Rename "nb" which hides the field declared at line 746.(şŠÔş
+}squid:S2293é"YReplace the type specification in this constructor call with the diamond operator ("<>").(û×ÏŠÿÿÿÿÿ8ªÑÖûø-
+@squid:S1148ğ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+dsquid:HiddenFieldCheckE"6Rename "s" which hides the field declared at line 743.(äÉÆıÿÿÿÿ8¼ö÷.
+Zsquid:HiddenFieldCheckë"7Rename "sl" which hides the field declared at line 747.(ëâå€
+6squid:S3010©"Remove this assignment of "ml".(ŒÿQ
+8squid:S3010«" Remove this assignment of "lmt".(ö¤ˆ…
+8squid:S3010²" Remove this assignment of "pmb".(÷Ô”ı
+Bsquid:S5411±"*Use the primitive boolean expression here.(ñÅµÏ
+<squid:S1659¬"Declare "s" on a separate line.(½×Û‡şÿÿÿÿ
+fsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¥“Ú§
+<squid:S1172N"&Remove these unused method parameters.(ÿËö{
+<squid:S3010›"Remove this assignment of "lb".(Ôÿõ¦ıÿÿÿÿ
+Ysquid:HiddenFieldCheckä"6Rename "s" which hides the field declared at line 743.(Ç£‚¾
+8squid:S3010¦"!Remove this assignment of "addd".(¥‹ÌA
+@squid:S1148Æ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+9squid:S1659æ"!Declare "lms" on a separate line.(”®Í¼
+<squid:S3010"Remove this assignment of "pq".(Â†—ÿÿÿÿÿ
+7squid:S3010°"Remove this assignment of "tl".(İ¿µ
+=squid:S3010µ" Remove this assignment of "piv".(İ‚ìºüÿÿÿÿ
+Asquid:S1125±")Remove the literal "false" boolean value.(ñÅµÏ
+xsquid:S1488²"[Immediately return this expression instead of assigning it to the temporary variable "sum".(À šªøÿÿÿÿ
+3squid:S3626Õ"Remove this redundant jump.(ûÁİ…
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(ŠşªŸ8¼ö÷.
+Vsquid:S1155†">Use isEmpty() to check whether the collection is empty or not.(å¨ñ´
+O
+squid:S106b"9Replace this use of System.out or System.err by a logger.(î”×
+Xsquid:CallToDeprecatedMethod‰"/Remove this use of "Integer"; it is deprecated.(²¤ÙÏ
+xsquid:S2293Š"YReplace the type specification in this constructor call with the diamond operator ("<>").(„‹—º8ªÑÖûø-
+=squid:S1659«" Declare "sc" on a separate line.(Ÿ“ºæúÿÿÿÿ
+=squid:S1659ì" Declare "tt" on a separate line.(‰¥°Òüÿÿÿÿ
+Ysquid:HiddenFieldCheckş"6Rename "s" which hides the field declared at line 743.(Ç£‚¾
+esquid:S1192Í"HDefine a constant instead of duplicating this literal "AddList" 3 times.(¢¨Øòúÿÿÿÿ
+8squid:S3010±" Remove this assignment of "pmt".(×íÛØ
+8squid:S1659‡" Declare "pm" on a separate line.(½€õ‘
+qsquid:S1488¦"YImmediately return this expression instead of assigning it to the temporary variable "r".(ÇöÉğ
+Ysquid:HiddenFieldCheckø"7Rename "ml" which hides the field declared at line 740.(š”®d
+9squid:S3010§"!Remove this assignment of "addl".(¾ÓÎè
+_squid:HiddenFieldCheck4"6Rename "i" which hides the field declared at line 743.(ã—Ó¥8»ö÷.
+bsquid:S1155±">Use isEmpty() to check whether the collection is empty or not.(óäÈ»øÿÿÿÿ8ßìÎüø-
+Ysquid:HiddenFieldCheckà"7Rename "ml" which hides the field declared at line 740.(š”®d
+=squid:S3010ª" Remove this assignment of "liv".(”–ùøÿÿÿÿ
+@squid:S1125È")Remove the literal "false" boolean value.(Ù–´
+9squid:S1659ï"!Declare "pms" on a separate line.(ÀÖ¼
+jsquid:S00117è"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÚË
+8squid:S1659ê" Declare "nb" on a separate line.(¿Øõœ
+_squid:S1126£"BReplace this if-then-else statement by a single method invocation.(êıˆ˜úÿÿÿÿ
+?squid:S1444Ö"(Make this "public static pq" field final(¼·éa
+Xsquid:S4973»"9Use the "equals" method if value comparison was intended.(‚í‘ñ8ßìÎüø-
+jsquid:S3776…"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(–âµ°
+8squid:S3010" Remove this assignment of "gui".(±Ş
+rsquid:ModifiersOrderCheckó"EReorder the modifiers to comply with the Java Language Specification.(¼ÿë²8ªÑÖûø-
+Isquid:S1905æ",Remove this unnecessary cast to "StackPane".(°şù½üÿÿÿÿ
+{squid:S4165ß"cRemove this useless assignment; "exist" already holds the assigned value along all execution paths.(ƒ×¯
+@squid:S1148Ü"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+wsquid:S1488"ZImmediately return this expression instead of assigning it to the temporary variable "ob".(œ‚áûûÿÿÿÿ
+9squid:S3010¥"!Remove this assignment of "adds".(¿Æ¶¸
+bsquid:S1155×">Use isEmpty() to check whether the collection is empty or not.(°£•öşÿÿÿÿ8ßìÎüø-
+Zsquid:HiddenFieldCheckÂ"7Rename "ml" which hides the field declared at line 740.(Âİõ—
+6squid:S3010”"Remove this assignment of "i".(ƒÒÕ
+9squid:S1659ï"!Declare "pmc" on a separate line.(ÀÖ¼
+^squid:HiddenFieldCheck"6Rename "f" which hides the field declared at line 745.(‰­ÆÆüÿÿÿÿ
+Zsquid:HiddenFieldCheckĞ"7Rename "ml" which hides the field declared at line 740.(·»Áº
+¥squid:S1186¶"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¯ı´äÿÿÿÿÿ8œœ“‰‡.

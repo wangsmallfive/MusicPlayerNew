@@ -1,0 +1,28 @@
+
+usquid:S00116."]Rename this field "TableColumn_length" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Šª´Â
+esquid:S00100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º”¯
+"squid:ClassVariableVisibilityCheck…"\Make defaultEmptyList a static final constant or non-public and provide accessors if needed.(Ë—Àüÿÿÿÿ
+vsquid:S00116""_Rename this field "Button_playListClear" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼˜êS
+Hsquid:S1602w",Remove useless curly braces around statement(óýé•ùÿÿÿÿ
+fsquid:S00100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù„ºŸ
+˜squid:S1319…"{The type of the "defaultEmptyList" object should be an interface such as "List" rather than the implementation "ArrayList".(Ë—Àüÿÿÿÿ
+:squid:S2386…"Make this member "protected".(Ë—Àüÿÿÿÿ
+ksquid:S00100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦åÔ°úÿÿÿÿ
+fsquid:S00100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰âöÓ
+ssquid:S001161"VRename this field "Label_title" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñÏÈúÿÿÿÿ
+fsquid:S00100V"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°¯à²
+ksquid:S00100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò¦·öþÿÿÿÿ
+|squid:S00116"_Rename this field "Button_playListClose" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªäö¤üÿÿÿÿ
+zsquid:S00116"bRename this field "AnchorPane_playListPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûØÌ
+zsquid:S00116%"]Rename this field "TableView_playList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íôýöýÿÿÿÿ
+ssquid:S00116("[Rename this field "TableColumn_song" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š±öÉ
+fsquid:S00100F"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üÃÀ§
+zsquid:S00116+"]Rename this field "TableColumn_singer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡úœÝüÿÿÿÿ
+Ssquid:S1444…"6Make this "public static defaultEmptyList" field final(Ë—Àüÿÿÿÿ
+fsquid:S00100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦‰ºž
+ksquid:S001006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åç»¿ÿÿÿÿÿ
+fsquid:S00100R"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÏµµ
+{squid:S00116"^Rename this field "AnchorPane_infoArea" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(å‘ö™üÿÿÿÿ
+wsquid:S00116"_Rename this field "AnchorPane_titlePane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïïß£
+fsquid:S00100:"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þµ„²
+tsquid:S001164"\Rename this field "Label_playListNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž³ÀÉ

@@ -1,0 +1,71 @@
+
+hsquid:CommentedOutCodeLine•"<This block of commented-out lines of code should be removed.(ÚÓ¡·üÿÿÿÿ
+U
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(ã”¥’þÿÿÿÿ
+Esquid:S1604Ö"(Make this anonymous inner class a lambda(€›õúüÿÿÿÿ
+gsquid:CommentedOutCodeLineK"<This block of commented-out lines of code should be removed.(Çä±Ïûÿÿÿÿ
+Jsquid:S1135Š"2Complete the task associated to this TODO comment.(‡ñÅ¼
+T
+squid:S106n"9Replace this use of System.out or System.err by a logger.(”áëøÿÿÿÿ
+\squid:S2259µ"DA "NullPointerException" could be thrown; "length" is nullable here.(‡é‰Ç
+5squid:S2119"Save and re-use this "Random".(¼ÝÅf
+gsquid:CommentedOutCodeLineQ"<This block of commented-out lines of code should be removed.(©ž£—ýÿÿÿÿ
+gsquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(â³àÂýÿÿÿÿ
+Jsquid:S1135Ù"2Complete the task associated to this TODO comment.(‡ñÅ¼
+Esquid:S1604õ"(Make this anonymous inner class a lambda(ôâŠûýÿÿÿÿ
+@squid:S1148¸"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Zsquid:CallToDeprecatedMethodP"2Remove this use of "Observable"; it is deprecated.(´†Îš
+^squid:S2142›"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+P
+squid:S106£"9Replace this use of System.out or System.err by a logger.(”Õš›
+Usquid:S1854Û"=Remove this useless assignment to local variable "playIndex".(Ÿ÷×¥
+gsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(¦üûƒýÿÿÿÿ
+gsquid:CommentedOutCodeLineg"<This block of commented-out lines of code should be removed.(óÕ„¿ýÿÿÿÿ
+bsquid:CommentedOutCodeLinev"<This block of commented-out lines of code should be removed.(åÓí¤
+U
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ã”¥’þÿÿÿÿ
+hsquid:CommentedOutCodeLine³"<This block of commented-out lines of code should be removed.(ÃµÒþûÿÿÿÿ
+hsquid:CommentedOutCodeLine‘"<This block of commented-out lines of code should be removed.(ÈáËñûÿÿÿÿ
+dsquid:S00112Ï"FDefine and throw a dedicated exception instead of using a generic one.(š²Ù€ùÿÿÿÿ
+csquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(³­÷ž
+Gsquid:S1444'"+Make this "public static cur_p" field final(«±áíûÿÿÿÿ
+osquid:S3776í"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(úö¶Œúÿÿÿÿ
+U
+squid:S106ú"9Replace this use of System.out or System.err by a logger.(Ë„ä½ûÿÿÿÿ
+„"squid:ClassVariableVisibilityCheck'"QMake cur_p a static final constant or non-public and provide accessors if needed.(«±áíûÿÿÿÿ
+U
+squid:S106Þ"9Replace this use of System.out or System.err by a logger.(õåÃ™ÿÿÿÿÿ
+Lsquid:EmptyStatementUsageCheck€"Remove this empty statement.(öÚžÇûÿÿÿÿ
+nsquid:S00116*"VRename this field "length_temp" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìò§Ì
+@squid:S1148æ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+^squid:S3973¿"GUse indentation to denote the code conditionally executed by this "if".(¿ä
+]squid:S1126;"AReplace this if-then-else statement by a single return statement.(­ÎÖêüÿÿÿÿ
+5squid:S2119²"Save and re-use this "Random".(¼ÝÅf
+hsquid:CommentedOutCodeLineÜ"<This block of commented-out lines of code should be removed.(Îˆ·ýÿÿÿÿ
+Jsquid:S1135½"2Complete the task associated to this TODO comment.(‡ñÅ¼
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(…ªºåøÿÿÿÿ
+]squid:CallToDeprecatedMethod!"0Remove this use of "Observer"; it is deprecated.(¯’¹·ùÿÿÿÿ
+isquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³°Ï
+U
+squid:S106–"9Replace this use of System.out or System.err by a logger.(Ú¬‡×ùÿÿÿÿ
+csquid:CommentedOutCodeLineÄ"<This block of commented-out lines of code should be removed.(¥ã÷Ê
+U
+squid:S106‰"9Replace this use of System.out or System.err by a logger.(Ü¥›Œøÿÿÿÿ
+Fsquid:S1481Û".Remove this unused "playIndex" local variable.(Ÿ÷×¥
+5squid:S2119•"Save and re-use this "Random".(¼ÝÅf
+osquid:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(Àà¾Îúÿÿÿÿ
+hsquid:CommentedOutCodeLineð"<This block of commented-out lines of code should be removed.(Îˆ·ýÿÿÿÿ
+lsquid:S3008'"PRename this field "cur_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«±áíûÿÿÿÿ
+Lsquid:S1066Ú"/Merge this if statement with the enclosing one.(üÛõéøÿÿÿÿ
+U
+squid:S106Õ"9Replace this use of System.out or System.err by a logger.(“¥àŸýÿÿÿÿ
+dsquid:S00112ª"FDefine and throw a dedicated exception instead of using a generic one.(Óìø¨úÿÿÿÿ
+csquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(€ÅÙ€
+csquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(¼š€ö
+vsquid:S1171ô"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ
+csquid:CommentedOutCodeLine¸"<This block of commented-out lines of code should be removed.(¥ã÷Ê
+@squid:S1148œ"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+–%squid:RedundantThrowsDeclarationCheckP"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(´†Îš
+isquid:S00116)"QRename this field "last_p" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÉ¤…
+U
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(†ˆ²™ÿÿÿÿÿ

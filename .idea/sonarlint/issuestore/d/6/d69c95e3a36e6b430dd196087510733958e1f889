@@ -1,0 +1,75 @@
+
+gsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+gsquid:S00100„"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èÎÑà
+usquid:S00116"XRename this field "current_index" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×êÒ©úÿÿÿÿ
+ksquid:S00100T"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁŒÀòûÿÿÿÿ
+tsquid:S00116"WRename this field "current_mode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø…ßÆþÿÿÿÿ
+osquid:S00117Ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈË•¶øÿÿÿÿ
+fsquid:S00100œ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ž—ñ
+jsquid:S00117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‚¬ƒ
+osquid:S00117²"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áö®€úÿÿÿÿ
+gsquid:CommentedOutCodeLined"<This block of commented-out lines of code should be removed.(¯€«Üýÿÿÿÿ
+osquid:S00117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üùó±øÿÿÿÿ
+ksquid:S00100;"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ØÈÝžúÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üøË·þÿÿÿÿ
+gsquid:S00100º"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õà–
+gsquid:CommentedOutCodeLineG"<This block of commented-out lines of code should be removed.(œÊãûÿÿÿÿ
+tsquid:S00116"WRename this field "current_song" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì†Ï©ýÿÿÿÿ
+P
+squid:S106…"9Replace this use of System.out or System.err by a logger.(ÌÛ©ß
+lsquid:S00100Ü"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠ µüÿÿÿÿ
+osquid:S00117Ø"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¾Ô’øÿÿÿÿ
+psquid:S00116"YRename this field "current_volume" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·Ö1
+ksquid:S00100^"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬œâ“øÿÿÿÿ
+Qsquid:S22092"5Change this instance-reference to a static reference.(¼ºˆÏúÿÿÿÿ
+usquid:S00116"XRename this field "progress_long" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àôø°ùÿÿÿÿ
+ksquid:S00100x"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²åÞ’ùÿÿÿÿ
+gsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÇµæÆ
+gsquid:S00100¶"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦¥Ê¶
+lsquid:S00100Ô"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈË•¶øÿÿÿÿ
+lsquid:S00100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ÙÑõÿÿÿÿÿ
+osquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¼¥ˆüÿÿÿÿ
+fsquid:S00100û"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©¸ír
+osquid:S00117Ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãŠ µüÿÿÿÿ
+lsquid:S00100©"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Üùó±øÿÿÿÿ
+bsquid:CommentedOutCodeLine."<This block of commented-out lines of code should be removed.(ò¦ÀÚ
+O
+squid:S106y"9Replace this use of System.out or System.err by a logger.(Â‰ú
+gsquid:S00100®"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åì±×
+rsquid:S00116"URename this field "current_op" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¹ìûÿÿÿÿ
+lsquid:S00100ÿ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÓÎ½ýÿÿÿÿ
+psquid:S00116"XRename this field "current_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸Ì®«
+lsquid:S00100²"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Áö®€úÿÿÿÿ
+T
+squid:S106="9Replace this use of System.out or System.err by a logger.(»Í› üÿÿÿÿ
+ksquid:S00100~"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öù µøÿÿÿÿ
+gsquid:S00100 "NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼‚¬ƒ
+–%squid:RedundantThrowsDeclarationCheckB"eRemove the declaration of thrown exception 'java.lang.RuntimeException' which is a runtime exception.(ÜØ˜ð
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(Ïþ”…
+O
+squid:S106U"9Replace this use of System.out or System.err by a logger.(ÁÏªÅ
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õà–
+fsquid:S00100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°ãøê
+gsquid:CommentedOutCodeLineM"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ó¤ž„øÿÿÿÿ
+T
+squid:S106q"9Replace this use of System.out or System.err by a logger.(±´Ù„ýÿÿÿÿ
+Jsquid:S1135Ì"2Complete the task associated to this TODO comment.(‡ñÅ¼
+esquid:UselessImportCheck
+"<Remove this unused import 'javafx.embed.swing.SwingFXUtils'.(‡Ç›†ýÿÿÿÿ
+lsquid:S00100Ø"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼¾Ô’øÿÿÿÿ
+^squid:S1075Ï"ARefactor your code to get this URI from a customizable parameter.(¶××¯úÿÿÿÿ
+gsquid:S00100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üæð˜
+xsquid:S00116"[Rename this field "current_songMenu" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕŽ“ºúÿÿÿÿ
+^squid:S00112B"FDefine and throw a dedicated exception instead of using a generic one.(ÜØ˜ð
+hsquid:CommentedOutCodeLineà"<This block of commented-out lines of code should be removed.(¿Ä“¿þÿÿÿÿ
+fsquid:S00100B"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜØ˜ð
+P
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(·åþ
+lsquid:S00100¾"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¼¥ˆüÿÿÿÿ
+Jsquid:S1135Å"2Complete the task associated to this TODO comment.(‡ñÅ¼
+asquid:UselessImportCheck"=Remove this unused import 'javafx.scene.image.WritableImage'.(ïçŸ¯
+psquid:S00116!"XRename this field "current_image" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç›Ì
+gsquid:S00100¥"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÌµ•

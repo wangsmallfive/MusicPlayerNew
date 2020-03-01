@@ -1,0 +1,39 @@
+
+Esquid:S1444^")Make this "public static add" field final(°“†™øÿÿÿÿ
+Esquid:S1444_".Make this "public static play_all" field final(‹°Ë
+Osquid:S1444`"3Make this "public static play_all_next" field final(€ıÿªùÿÿÿÿ
+Fsquid:S1444a"*Make this "public static play" field final(ÿ°ûùÿÿÿÿ
+Esquid:S1444b"/Make this "public static play_next" field final(õ¬•9
+Asquid:S1444c"*Make this "public static path" field final(Ò•‘è
+Hsquid:S1444d"1Make this "public static remove_song" field final(ïû•±
+Hsquid:S1444e"1Make this "public static remove_list" field final(¾ª­î
+‚"squid:ClassVariableVisibilityCheck^"OMake add a static final constant or non-public and provide accessors if needed.(°“†™øÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck_"TMake play_all a static final constant or non-public and provide accessors if needed.(‹°Ë
+Œ"squid:ClassVariableVisibilityCheck`"YMake play_all_next a static final constant or non-public and provide accessors if needed.(€ıÿªùÿÿÿÿ
+ƒ"squid:ClassVariableVisibilityChecka"PMake play a static final constant or non-public and provide accessors if needed.(ÿ°ûùÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheckb"UMake play_next a static final constant or non-public and provide accessors if needed.(õ¬•9
+~"squid:ClassVariableVisibilityCheckc"PMake path a static final constant or non-public and provide accessors if needed.(Ò•‘è
+…"squid:ClassVariableVisibilityCheckd"WMake remove_song a static final constant or non-public and provide accessors if needed.(ïû•±
+…"squid:ClassVariableVisibilityChecke"WMake remove_list a static final constant or non-public and provide accessors if needed.(¾ª­î
+jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÚË
+jsquid:S00117¾"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(òÚË
+@squid:S1148Ì"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+Zsquid:S1155u">Use isEmpty() to check whether the collection is empty or not.(©‹êèıÿÿÿÿ
+Zsquid:S1155}">Use isEmpty() to check whether the collection is empty or not.(©‹êèıÿÿÿÿ
+msquid:S1450-"QRemove the "ml" field and declare it as a local variable in the relevant methods.(ç¨·şÿÿÿÿ
+isquid:S37760"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(©ıØò
+6squid:S16592"Declare "y" on a separate line.(‘ ­Û
+=squid:S1172M"&Remove these unused method parameters.(²«à
+jsquid:S3008_"SRename this field "play_all" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹°Ë
+tsquid:S3008`"XRename this field "play_all_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ıÿªùÿÿÿÿ
+jsquid:S3008b"TRename this field "play_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¬•9
+msquid:S3008d"VRename this field "remove_song" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ïû•±
+msquid:S3008e"VRename this field "remove_list" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ª­î
+isquid:S3776h"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÃŒ”’
+Hsquid:S1602m",Remove useless curly braces around statement(Š™Ìæÿÿÿÿÿ
+Hsquid:S1602p",Remove useless curly braces around statement(ÅÏ½şÿÿÿÿ
+P
+squid:S106È"9Replace this use of System.out or System.err by a logger.(õÃŸ£
+Zsquid:S1126ç"BReplace this if-then-else statement by a single method invocation.(€ßÌş
+_squid:S1126ì"BReplace this if-then-else statement by a single method invocation.(Š¹Äƒÿÿÿÿÿ
+_squid:S1126ù"BReplace this if-then-else statement by a single method invocation.(¹÷ºãşÿÿÿÿ

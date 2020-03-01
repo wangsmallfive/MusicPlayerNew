@@ -1,0 +1,23 @@
+
+wsquid:S001165"_Rename this field "TableView_musicTable" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÝÖ¸
+vsquid:S00116G"^Rename this field "ListView_SingerPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ãÓ‡
+usquid:S00116J"]Rename this field "ListView_albumPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(žžþå
+…squid:S00116D"hRename this field "TableColumn_search_timeLength" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂŒ®Øüÿÿÿÿ
+squid:S00116;"hRename this field "TableColumn_search_musicTitle" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´‚l
+lsquid:S001162"TRename this field "Tab_album" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú›½›
+squid:S00116A"gRename this field "TableColumn_search_albumName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ù‘·Û
+dsquid:S1192Ü"LDefine a constant instead of duplicating this literal "tableColumn" 5 times.(Âå˜£
+qsquid:S00116#"TRename this field "VBox_vbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ºß¾úÿÿÿÿ
+wsquid:S00116 "_Rename this field "StackPane_searchPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û®Ìó
+~squid:S00116M"aRename this field "ListView_musicListPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹žüöýÿÿÿÿ
+nsquid:S1450å"QRemove the "ma" field and declare it as a local variable in the relevant methods.(ñ‘¬Šüÿÿÿÿ
+rsquid:S00116)"ZRename this field "TabPane_tabPane" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï±ºÎ
+Hsquid:S4524Æ"+Move this default to the end of the switch.(Ý–Ò˜ÿÿÿÿÿ
+wsquid:S00116/"ZRename this field "Tab_musicSinger" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÃðúÿÿÿÿ
+Csquid:S1068å"&Remove this unused "ma" private field.(ñ‘¬Šüÿÿÿÿ
+}squid:S001168"`Rename this field "TableColumn_search_ID" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ¢¬±ûÿÿÿÿ
+usquid:S00116P"^Rename this field "ListView_lyricsPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÆ„
+tsquid:S00116&"]Rename this field "Label_searchResult" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ì¡
+wsquid:S00116,"ZRename this field "Tab_singleMusic" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÔáìÚýÿÿÿÿ
+squid:S00116>"dRename this field "TableColumn_search_singer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“’·þÿÿÿÿ
+csquid:UselessImportCheck":Remove this unused import 'javafx.scene.input.MouseEvent'.(˜¬‹æÿÿÿÿÿ

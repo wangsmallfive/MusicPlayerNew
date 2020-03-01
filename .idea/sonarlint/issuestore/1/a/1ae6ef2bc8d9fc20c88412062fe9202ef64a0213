@@ -1,0 +1,39 @@
+
+ssquid:S00116d"[Rename this field "StackPane_volumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á¿«ƒ
+xsquid:S00116p"[Rename this field "HBox_bottomItems" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÓ¹Õüÿÿÿÿ
+>squid:S2185"&Remove this silly call to "Math.round"(ãéï’
+nsquid:S00116+"VRename this field "Button_back" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Çœ“
+tsquid:S00116C"\Rename this field "Label_playListNum" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùÁ õ
+vsquid:S00116R"^Rename this field "Slider_songProgress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘‘ÎØ
+ssquid:S00116%"VRename this field "Button_next" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é©ôÙùÿÿÿÿ
+osquid:S00116:"WRename this field "Button_close" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆù‚ò
+ysquid:S00116["\Rename this field "AnchorPane_bottom" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½íó…ûÿÿÿÿ
+xsquid:S00116a"aRename this field "StackPane_songProgress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õü—
+usquid:S001161"XRename this field "Button_search" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–úíıÿÿÿÿ
+zsquid:S00116j"]Rename this field "ProgressBar_volumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú‰„ùÿÿÿÿ
+ssquid:S00116"VRename this field "Button_last" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶…‡“ıÿÿÿÿ
+Fsquid:S1905–")Remove this unnecessary cast to "double".(ÁİËÕşÿÿÿÿ
+^squid:S2142Ô"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+ssquid:S00116m"[Rename this field "Hbox_topItemHbox" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”´óº
+|squid:S00116O"_Rename this field "TextField_searchSong" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï¬ñüÿÿÿÿ
+vsquid:S00116X"YRename this field "AnchorPane_top" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ£¥•øÿÿÿÿ
+vsquid:S00116^"^Rename this field "BorderPane_mainPage" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ÷–’
+Bsquid:S00108á")Either remove or fill this block of code.(ä ¹€
+tsquid:S00116""WRename this field "Button_pause" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’è­Ñùÿÿÿÿ
+Bsquid:S00108Ô")Either remove or fill this block of code.(ä ¹€
+vsquid:S001164"YRename this field "Button_setting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á£Úğşÿÿÿÿ
+tsquid:S00116L"WRename this field "Label_FXName" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úµ¥üÿÿÿÿ
+usquid:S00116U"XRename this field "Slider_volumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í‚‚´úÿÿÿÿ
+csquid:S1192î"KDefine a constant instead of duplicating this literal "lightLabel" 3 times.(ê¡ùÜ
+vsquid:S00116@"^Rename this field "Button_changeVolumn" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«±¦‡
+^squid:S2142á"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+Dsquid:S1602¬",Remove useless curly braces around statement(×àûª
+Isquid:S1602©",Remove useless curly braces around statement(óıé•ùÿÿÿÿ
+rsquid:S001167"ZRename this field "Button_minimize" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È°ö¹
+qsquid:S00116="ZRename this field "Button_playList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğõ¾k
+€squid:S00116g"cRename this field "ProgressBar_songProgress" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÓÙùÿÿÿÿ
+tsquid:S00116F"\Rename this field "Label_currentTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×õŞÁ
+vsquid:S00116."YRename this field "Button_forward" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Û¾‡úÿÿÿÿ
+ysquid:S00116("\Rename this field "Button_modeSwitch" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊªĞ±şÿÿÿÿ
+rsquid:S00116I"ZRename this field "Label_totalTime" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ•À©
+_squid:S2184œ"BCast one of the operands of this division operation to a "double".(Ë¨ğúÿÿÿÿ

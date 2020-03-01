@@ -1,0 +1,26 @@
+
+rsquid:S00115 "ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÄÒØú
+…"squid:ClassVariableVisibilityCheck"WMake currentCtrl a static final constant or non-public and provide accessors if needed.(º´ÈÚ
+ƒ"squid:ClassVariableVisibilityCheck"VMake currentLrc a static final constant or non-public and provide accessors if needed.(ê±ßG
+rsquid:S00115""ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(»¬¤Õ
+‰"squid:ClassVariableVisibilityCheck"VMake currentSum a static final constant or non-public and provide accessors if needed.(˜üº·ıÿÿÿÿ
+‚"squid:ClassVariableVisibilityCheck"TMake PageType a static final constant or non-public and provide accessors if needed.(–´Ğé
+Lsquid:S1444"0Make this "public static currentSum" field final(˜üº·ıÿÿÿÿ
+Msquid:S1444"1Make this "public static currentList" field final(±¶ğùÿÿÿÿ
+Fsquid:S1444"0Make this "public static currentLrc" field final(ê±ßG
+Œ"squid:ClassVariableVisibilityCheck"YMake currentSearch a static final constant or non-public and provide accessors if needed.(’ˆÛ©øÿÿÿÿ
+Hsquid:S1444"1Make this "public static currentSong" field final(„ÛáÛ
+Msquid:S1444"1Make this "public static currentMenu" field final(Ü÷°şÿÿÿÿ
+9squid:S2386"Make this member "protected".(±¶ğùÿÿÿÿ
+wsquid:S00115!"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(àşËåüÿÿÿÿ
+rsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê‰Äó
+Š"squid:ClassVariableVisibilityCheck"WMake currentMenu a static final constant or non-public and provide accessors if needed.(Ü÷°şÿÿÿÿ
+Š"squid:ClassVariableVisibilityCheck"WMake currentList a static final constant or non-public and provide accessors if needed.(±¶ğùÿÿÿÿ
+jsquid:S3008"SRename this field "PageType" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–´Ğé
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(³Ÿ™õúÿÿÿÿ
+Osquid:S1444"3Make this "public static currentSearch" field final(’ˆÛ©øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(üøË·şÿÿÿÿ
+Nsquid:S1135"2Complete the task associated to this TODO comment.(š§•—şÿÿÿÿ
+Hsquid:S1444"1Make this "public static currentCtrl" field final(º´ÈÚ
+…"squid:ClassVariableVisibilityCheck"WMake currentSong a static final constant or non-public and provide accessors if needed.(„ÛáÛ
+Esquid:S1444".Make this "public static PageType" field final(–´Ğé
