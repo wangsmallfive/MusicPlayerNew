@@ -45,35 +45,47 @@ public class TagInfoUtil {
         MP3File file;
         try {
             file = new MP3File(path);
-            Set<String> keySet = file.getID3v2Tag().frameMap.keySet();
             String songName = null, artist = null, album = null;
-
-            if (keySet.contains("TIT2"))
-                songName = file.getID3v2Tag().frameMap.get("TIT2").toString();
-            if (keySet.contains("TPE1"))
-                artist = file.getID3v2Tag().frameMap.get("TPE1").toString();
-            if (keySet.contains("TALB"))
-                album = file.getID3v2Tag().frameMap.get("TALB").toString();
             String length = file.getMP3AudioHeader().getTrackLengthAsString();
 
             Tag tag = new Tag();
-            if (songName != null) {
-                songName = songName.substring(6, songName.length() - 3);
+            if(file.getID3v2Tag() == null ){
+                artist = file.getID3v1Tag().getFirstArtist();
+                songName = file.getID3v1Tag().getTitle().get(0).toString();
+                album = file.getID3v1Tag().getAlbum().get(0).toString();
 
-                tag.setSongName(songName.trim());
+                    tag.setSongName(songName.trim());
+                    tag.setAlbum(album.trim());
+                    tag.setArtist(artist.trim());
+            }else{
+                Set<String> keySet = file.getID3v2Tag().frameMap.keySet();
+                if (keySet.contains("TIT2"))
+                    songName = file.getID3v2Tag().frameMap.get("TIT2").toString();
+                if (keySet.contains("TPE1"))
+                    artist = file.getID3v2Tag().frameMap.get("TPE1").toString();
+                if (keySet.contains("TALB"))
+                    album = file.getID3v2Tag().frameMap.get("TALB").toString();
+                if (songName != null) {
+                    songName = songName.substring(6, songName.length() - 3);
+
+                    tag.setSongName(songName.trim());
+                }
+
+                if (album != null) {
+                    album = album.substring(6, album.length() - 3);
+
+                    tag.setAlbum(album.trim());
+                }
+
+                if (artist != null) {
+                    artist = artist.substring(6, artist.length() - 3);
+
+                    tag.setArtist(artist.trim());
+                }
             }
 
-            if (album != null) {
-                album = album.substring(6, album.length() - 3);
 
-                tag.setAlbum(album.trim());
-            }
 
-            if (artist != null) {
-                artist = artist.substring(6, artist.length() - 3);
-
-                tag.setArtist(artist.trim());
-            }
 
             tag.setLength(length);
             return tag;
