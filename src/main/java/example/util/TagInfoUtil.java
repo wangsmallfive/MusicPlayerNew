@@ -51,7 +51,7 @@ public class TagInfoUtil {
             Tag tag = new Tag();
             if(file.getID3v2Tag() == null ){
                 artist = file.getID3v1Tag().getFirstArtist();
-                songName = file.getID3v1Tag().getTitle().get(0).toString();
+                songName = file.getFile().toString().substring(file.getFile().toString().lastIndexOf("/")+1);
                 album = file.getID3v1Tag().getAlbum().get(0).toString();
 
                     tag.setSongName(songName.trim());

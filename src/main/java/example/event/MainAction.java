@@ -17,7 +17,8 @@ import example.gui.GUI;
 import example.gui.MusicUtils;
 import example.service.*;
 import example.service.LrcAnalyzer.LrcData;
-import example.util.FtpUtils;
+import example.util.MusicThread;
+import example.util.ServerUploadThread;
 import example.util.SongUtil;
 
 import javafx.beans.property.DoubleProperty;
@@ -41,7 +42,6 @@ import javafx.scene.layout.StackPane;
 import javafx.scene.layout.VBox;
 import javafx.stage.*;
 import javafx.util.Callback;
-import org.apache.commons.net.ftp.FTPFile;
 
 import static example.Global.GlobalVariable.*;
 
@@ -318,19 +318,11 @@ public class MainAction {
     }
     //刷新服务器
     public void serverSearch() {
-        FtpUtils ftp = new FtpUtils();
         //先清空库存
         File songMenuXML = new File("E://MusicPlay//serversongmenu.xml");
         songMenuXML.delete();
-       List<FTPFile> serverFileNames =  ftp.readFile();
-       for (int i=0;i<serverFileNames.size();i++){
-           Song s = SongOperate.addServiceSong("http://139.196.95.157/musicplayer/",serverFileNames.get(i), currentMenu.get());
-
-       }
-        Alert _alert = new Alert(Alert.AlertType.INFORMATION);
-        _alert.setTitle("提示");
-        _alert.setHeaderText("刷新成功");
-        _alert.show();
+        MusicThread thread1 = new MusicThread();
+        thread1.start();
 
     }
 
@@ -340,26 +332,25 @@ public class MainAction {
         fileChooser.getExtensionFilters().addAll(new FileChooser.ExtensionFilter("MP3", "*.mp3"),
                 new FileChooser.ExtensionFilter("flac", "*.flac*"),
                 new FileChooser.ExtensionFilter("所有文件", "*.*"));
+
         List<File> selectedFile = fileChooser.showOpenMultipleDialog(GUI.staticStage);
-        List<MusicUtils> ml = new ArrayList<>();
-        if (selectedFile != null)
-            for (File file : selectedFile) {
-                try {
-                    FtpUtils ftp = new FtpUtils();
-                    ftp.uploadFile("", file.getName(), file.getAbsolutePath());
-                    Alert _alert = new Alert(Alert.AlertType.INFORMATION);
-                    _alert.setTitle("提示");
-                    _alert.setHeaderText("上传成功");
-                    _alert.show();
-                } catch (Exception e) {
-                    Alert _alert = new Alert(Alert.AlertType.INFORMATION);
-                    _alert.setTitle("警告");
-                    _alert.setHeaderText("有点问题  w(ﾟДﾟ)w");
-                    _alert.setContentText("[" + file.getAbsolutePath() + "]" + e.getMessage());
-                    _alert.show();
-                    break;
-                }
-            }
+        ServerUploadThread serverUploadThread = new ServerUploadThread(selectedFile);
+
+        try {
+            serverUploadThread.start();
+            Alert _alert = new Alert(Alert.AlertType.INFORMATION);
+            _alert.setTitle("提示");
+            _alert.setHeaderText("上传成功");
+            _alert.show();
+        } catch (Exception e) {
+            e.printStackTrace();
+            Alert _alert = new Alert(Alert.AlertType.INFORMATION);
+            _alert.setTitle("警告");
+            _alert.setHeaderText("有点问题  w(ﾟДﾟ)w");
+            _alert.setContentText(e.getMessage());
+            _alert.show();
+        }
+
     }
 
     private class Extension implements EventHandler<ActionEvent> {
